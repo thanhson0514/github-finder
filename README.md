@@ -1,6 +1,6 @@
 # Github Finder
 
-## Description: App build with ReactJS and use Api github so find information users
+## Description: App build with ReactJS and use github api so find information users
 
 ### download project
 * Install
